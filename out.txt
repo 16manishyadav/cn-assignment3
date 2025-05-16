@@ -1,0 +1,325 @@
+Task array:
+81 60 63 63 37 99 37 34 34 62 12 76 78 26 27 20 83 37 31 36 16 
+Task array:
+9 3 87 65 95 76 94 50 98 32 85 60 56 32 22 44 51 43 29 82 20 
+Task array:
+77 94 89 60 7 49 12 60 21 61 80 19 78 51 15 90 66 83 32 3 90 
+Task array:
+63 92 76 72 70 81 74 25 28 60 33 23 45 60 75 6 3 97 61 5 95 
+Task array:
+63 28 53 74 75 60 62 32 2 61 3 86 68 7 55 45 3 88 51 82 41 
+Handling message of type: subtask
+Source: 0, Destination: 1
+Subtask received with task ID: 1, subtask ID: 1
+Subtask data: 63 37 99 
+Array elements: 63 37 99 
+Handling message of type: subtask
+Source: 0, Destination: 2
+Subtask received with task ID: 2, subtask ID: 1
+Subtask data: 37 34 34 
+Array elements: 37 34 34 
+Handling message of type: subtask
+Source: 0, Destination: 3
+Subtask received with task ID: 3, subtask ID: 1
+Subtask data: 62 12 76 
+Array elements: 62 12 76 
+Handling message of type: subtask
+Source: 0, Destination: 4
+Subtask received with task ID: 4, subtask ID: 1
+Subtask data: 78 26 27 
+Array elements: 78 26 27 
+Handling message of type: subtask
+Source: 0, Destination: 1
+Subtask received with task ID: 6, subtask ID: 1
+Subtask data: 31 36 16 
+Array elements: 31 36 16 
+Handling message of type: subtask
+Source: 1, Destination: 0
+Subtask received with task ID: 0, subtask ID: 1
+Subtask data: 9 3 87 
+Array elements: 9 3 87 
+Handling message of type: subtask
+Source: 1, Destination: 2
+Subtask received with task ID: 2, subtask ID: 1
+Subtask data: 94 50 98 
+Array elements: 94 50 98 
+Handling message of type: subtask
+Source: 1, Destination: 3
+Subtask received with task ID: 3, subtask ID: 1
+Subtask data: 32 85 60 
+Array elements: 32 85 60 
+Handling message of type: subtask
+Source: 1, Destination: 4
+Subtask received with task ID: 4, subtask ID: 1
+Subtask data: 56 32 22 
+Array elements: 56 32 22 
+Handling message of type: subtask
+Source: 1, Destination: 0
+Subtask received with task ID: 5, subtask ID: 1
+Subtask data: 44 51 43 
+Array elements: 44 51 43 
+Handling message of type: subtask
+Source: 2, Destination: 0
+Subtask received with task ID: 0, subtask ID: 1
+Subtask data: 77 94 89 
+Array elements: 77 94 89 
+Handling message of type: subtask
+Source: 2, Destination: 1
+Subtask received with task ID: 1, subtask ID: 1
+Subtask data: 60 7 49 
+Array elements: 60 7 49 
+Handling message of type: subtask
+Source: 2, Destination: 3
+Subtask received with task ID: 3, subtask ID: 1
+Subtask data: 61 80 19 
+Array elements: 61 80 19 
+Handling message of type: subtask
+Source: 2, Destination: 4
+Subtask received with task ID: 4, subtask ID: 1
+Subtask data: 78 51 15 
+Array elements: 78 51 15 
+Handling message of type: subtask
+Source: 2, Destination: 0
+Subtask received with task ID: 5, subtask ID: 1
+Subtask data: 90 66 83 
+Array elements: 90 66 83 
+Handling message of type: subtask
+Source: 2, Destination: 1
+Subtask received with task ID: 6, subtask ID: 1
+Subtask data: 32 3 90 
+Array elements: 32 3 90 
+Handling message of type: subtask
+Source: 3, Destination: 0
+Subtask received with task ID: 0, subtask ID: 1
+Subtask data: 63 92 76 
+Array elements: 63 92 76 
+Handling message of type: subtask
+Source: 3, Destination: 1
+Subtask received with task ID: 1, subtask ID: 1
+Subtask data: 72 70 81 
+Array elements: 72 70 81 
+Handling message of type: subtask
+Source: 3, Destination: 2
+Subtask received with task ID: 2, subtask ID: 1
+Subtask data: 74 25 28 
+Array elements: 74 25 28 
+Handling message of type: subtask
+Source: 3, Destination: 4
+Subtask received with task ID: 4, subtask ID: 1
+Subtask data: 45 60 75 
+Array elements: 45 60 75 
+Handling message of type: subtask
+Source: 3, Destination: 0
+Subtask received with task ID: 5, subtask ID: 1
+Subtask data: 6 3 97 
+Array elements: 6 3 97 
+Handling message of type: subtask
+Source: 3, Destination: 1
+Subtask received with task ID: 6, subtask ID: 1
+Subtask data: 61 5 95 
+Array elements: 61 5 95 
+Handling message of type: subtask
+Source: 4, Destination: 0
+Subtask received with task ID: 0, subtask ID: 1
+Subtask data: 63 28 53 
+Array elements: 63 28 53 
+Handling message of type: subtask
+Source: 4, Destination: 1
+Subtask received with task ID: 1, subtask ID: 1
+Subtask data: 74 75 60 
+Array elements: 74 75 60 
+Handling message of type: subtask
+Source: 4, Destination: 2
+Subtask received with task ID: 2, subtask ID: 1
+Subtask data: 62 32 2 
+Array elements: 62 32 2 
+Handling message of type: subtask
+Source: 4, Destination: 3
+Subtask received with task ID: 3, subtask ID: 1
+Subtask data: 61 3 86 
+Array elements: 61 3 86 
+Handling message of type: subtask
+Source: 4, Destination: 0
+Subtask received with task ID: 5, subtask ID: 1
+Subtask data: 45 3 88 
+Array elements: 45 3 88 
+Handling message of type: subtask
+Source: 4, Destination: 1
+Subtask received with task ID: 6, subtask ID: 1
+Subtask data: 51 82 41 
+Array elements: 51 82 41 
+Handling message of type: result
+Source: 1, Destination: 0
+Result received from source: 1, result: 99
+Array elements: 63 37 99 
+Handling message of type: result
+Source: 2, Destination: 0
+Result received from source: 2, result: 37
+Array elements: 37 34 34 
+Handling message of type: subtask
+Source: 0, Destination: 3
+Subtask received with task ID: 3, subtask ID: 1
+Subtask data: 62 12 76 
+Array elements: 62 12 76 
+Handling message of type: result
+Source: 4, Destination: 0
+Result received from source: 4, result: 78
+Array elements: 78 26 27 
+Handling message of type: result
+Source: 1, Destination: 0
+Result received from source: 1, result: 36
+Array elements: 31 36 16 
+Handling message of type: result
+Source: 0, Destination: 1
+Result received from source: 0, result: 87
+Array elements: 9 3 87 
+Handling message of type: result
+Source: 2, Destination: 1
+Result received from source: 2, result: 98
+Array elements: 94 50 98 
+Handling message of type: result
+Source: 3, Destination: 1
+Result received from source: 3, result: 85
+Array elements: 32 85 60 
+Handling message of type: subtask
+Source: 1, Destination: 4
+Subtask received with task ID: 4, subtask ID: 1
+Subtask data: 56 32 22 
+Array elements: 56 32 22 
+Handling message of type: result
+Source: 0, Destination: 1
+Result received from source: 0, result: 51
+Array elements: 44 51 43 
+Handling message of type: subtask
+Source: 2, Destination: 0
+Subtask received with task ID: 0, subtask ID: 1
+Subtask data: 77 94 89 
+Array elements: 77 94 89 
+Handling message of type: result
+Source: 1, Destination: 2
+Result received from source: 1, result: 60
+Array elements: 60 7 49 
+Handling message of type: result
+Source: 3, Destination: 2
+Result received from source: 3, result: 80
+Array elements: 61 80 19 
+Handling message of type: result
+Source: 4, Destination: 2
+Result received from source: 4, result: 78
+Array elements: 78 51 15 
+Handling message of type: subtask
+Source: 2, Destination: 0
+Subtask received with task ID: 5, subtask ID: 1
+Subtask data: 90 66 83 
+Array elements: 90 66 83 
+Handling message of type: result
+Source: 1, Destination: 2
+Result received from source: 1, result: 90
+Array elements: 32 3 90 
+Handling message of type: result
+Source: 0, Destination: 3
+Result received from source: 0, result: 92
+Array elements: 63 92 76 
+Handling message of type: subtask
+Source: 3, Destination: 1
+Subtask received with task ID: 1, subtask ID: 1
+Subtask data: 72 70 81 
+Array elements: 72 70 81 
+Handling message of type: result
+Source: 2, Destination: 3
+Result received from source: 2, result: 74
+Array elements: 74 25 28 
+Handling message of type: result
+Source: 4, Destination: 3
+Result received from source: 4, result: 75
+Array elements: 45 60 75 
+Handling message of type: result
+Source: 0, Destination: 3
+Result received from source: 0, result: 97
+Array elements: 6 3 97 
+Handling message of type: subtask
+Source: 3, Destination: 1
+Subtask received with task ID: 6, subtask ID: 1
+Subtask data: 61 5 95 
+Array elements: 61 5 95 
+Handling message of type: result
+Source: 0, Destination: 4
+Result received from source: 0, result: 63
+Array elements: 63 28 53 
+Handling message of type: result
+Source: 1, Destination: 4
+Result received from source: 1, result: 75
+Array elements: 74 75 60 
+Handling message of type: subtask
+Source: 4, Destination: 2
+Subtask received with task ID: 2, subtask ID: 1
+Subtask data: 62 32 2 
+Array elements: 62 32 2 
+Handling message of type: result
+Source: 3, Destination: 4
+Result received from source: 3, result: 86
+Array elements: 61 3 86 
+Handling message of type: result
+Source: 0, Destination: 4
+Result received from source: 0, result: 88
+Array elements: 45 3 88 
+Handling message of type: result
+Source: 1, Destination: 4
+Result received from source: 1, result: 82
+Array elements: 51 82 41 
+Handling message of type: result
+Source: 2, Destination: 0
+Result received from source: 2, result: 37
+Array elements: 37 34 34 
+Handling message of type: result
+Source: 3, Destination: 0
+Result received from source: 3, result: 76
+Array elements: 62 12 76 
+Handling message of type: result
+Source: 3, Destination: 1
+Result received from source: 3, result: 85
+Array elements: 32 85 60 
+Handling message of type: result
+Source: 4, Destination: 1
+Result received from source: 4, result: 56
+Array elements: 56 32 22 
+Handling message of type: result
+Source: 0, Destination: 2
+Result received from source: 0, result: 94
+Array elements: 77 94 89 
+Handling message of type: result
+Source: 4, Destination: 2
+Result received from source: 4, result: 78
+Array elements: 78 51 15 
+Handling message of type: result
+Source: 0, Destination: 2
+Result received from source: 0, result: 90
+Array elements: 90 66 83 
+Handling message of type: result
+Source: 0, Destination: 3
+Result received from source: 0, result: 92
+Array elements: 63 92 76 
+Handling message of type: result
+Source: 1, Destination: 3
+Result received from source: 1, result: 81
+Array elements: 72 70 81 
+Handling message of type: result
+Source: 0, Destination: 3
+Result received from source: 0, result: 97
+Array elements: 6 3 97 
+Handling message of type: result
+Source: 1, Destination: 3
+Result received from source: 1, result: 95
+Array elements: 61 5 95 
+Handling message of type: result
+Source: 1, Destination: 4
+Result received from source: 1, result: 75
+Array elements: 74 75 60 
+Handling message of type: result
+Source: 2, Destination: 4
+Result received from source: 2, result: 62
+Array elements: 62 32 2 
+Handling message of type: result
+Source: 1, Destination: 4
+Result received from source: 1, result: 82
+Array elements: 51 82 41 

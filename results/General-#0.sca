@@ -1,0 +1,141 @@
+version 3
+run General-0-20240429-23:38:35-17104
+attr configname General
+attr datetime 20240429-23:38:35
+attr datetimef 20240429-233835
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Network
+attr processid 17104
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network Network
+
+par Network.clients[0].jumpout[0].channel typename "\"ned.DelayChannel\""
+par Network.clients[0].jumpout[0].channel disabled false
+attr mutable ""
+par Network.clients[0].jumpout[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[0].jumpout[1].channel typename "\"ned.DelayChannel\""
+par Network.clients[0].jumpout[1].channel disabled false
+attr mutable ""
+par Network.clients[0].jumpout[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[0].jumpout[2].channel typename "\"ned.DelayChannel\""
+par Network.clients[0].jumpout[2].channel disabled false
+attr mutable ""
+par Network.clients[0].jumpout[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[1].jumpout[0].channel typename "\"ned.DelayChannel\""
+par Network.clients[1].jumpout[0].channel disabled false
+attr mutable ""
+par Network.clients[1].jumpout[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[1].jumpout[1].channel typename "\"ned.DelayChannel\""
+par Network.clients[1].jumpout[1].channel disabled false
+attr mutable ""
+par Network.clients[1].jumpout[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[1].jumpout[2].channel typename "\"ned.DelayChannel\""
+par Network.clients[1].jumpout[2].channel disabled false
+attr mutable ""
+par Network.clients[1].jumpout[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[2].jumpout[0].channel typename "\"ned.DelayChannel\""
+par Network.clients[2].jumpout[0].channel disabled false
+attr mutable ""
+par Network.clients[2].jumpout[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[2].jumpout[1].channel typename "\"ned.DelayChannel\""
+par Network.clients[2].jumpout[1].channel disabled false
+attr mutable ""
+par Network.clients[2].jumpout[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[2].jumpout[2].channel typename "\"ned.DelayChannel\""
+par Network.clients[2].jumpout[2].channel disabled false
+attr mutable ""
+par Network.clients[2].jumpout[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[3].jumpout[0].channel typename "\"ned.DelayChannel\""
+par Network.clients[3].jumpout[0].channel disabled false
+attr mutable ""
+par Network.clients[3].jumpout[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[3].jumpout[1].channel typename "\"ned.DelayChannel\""
+par Network.clients[3].jumpout[1].channel disabled false
+attr mutable ""
+par Network.clients[3].jumpout[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[3].jumpout[2].channel typename "\"ned.DelayChannel\""
+par Network.clients[3].jumpout[2].channel disabled false
+attr mutable ""
+par Network.clients[3].jumpout[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[4].jumpout[0].channel typename "\"ned.DelayChannel\""
+par Network.clients[4].jumpout[0].channel disabled false
+attr mutable ""
+par Network.clients[4].jumpout[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[4].jumpout[1].channel typename "\"ned.DelayChannel\""
+par Network.clients[4].jumpout[1].channel disabled false
+attr mutable ""
+par Network.clients[4].jumpout[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[4].jumpout[2].channel typename "\"ned.DelayChannel\""
+par Network.clients[4].jumpout[2].channel disabled false
+attr mutable ""
+par Network.clients[4].jumpout[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par Network.clients[0] typename "\"Client\""
+par Network.clients[0] nc 5
+par Network.clients[0] mylog 3
+par Network.clients[0] x 7
+par Network.clients[0] subtask_size 3
+par Network.clients[1] typename "\"Client\""
+par Network.clients[1] nc 5
+par Network.clients[1] mylog 3
+par Network.clients[1] x 7
+par Network.clients[1] subtask_size 3
+par Network.clients[2] typename "\"Client\""
+par Network.clients[2] nc 5
+par Network.clients[2] mylog 3
+par Network.clients[2] x 7
+par Network.clients[2] subtask_size 3
+par Network.clients[3] typename "\"Client\""
+par Network.clients[3] nc 5
+par Network.clients[3] mylog 3
+par Network.clients[3] x 7
+par Network.clients[3] subtask_size 3
+par Network.clients[4] typename "\"Client\""
+par Network.clients[4] nc 5
+par Network.clients[4] mylog 3
+par Network.clients[4] x 7
+par Network.clients[4] subtask_size 3
+par Network typename "\"Network\""
+par Network NO_OF_CLIENTS 5
+par Network LOG_NO_OF_CLIENTS 3
+par Network x 7
+par Network subtask_size 3
+
